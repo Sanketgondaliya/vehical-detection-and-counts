@@ -51,7 +51,7 @@ This web application performs vehicle detection and counting on uploaded images 
 - Valid Roboflow API key
 
 ### Running the Application
-1. Clone the repository: git clone https://github.com/your-organization/vehicle-detection-counting.git
+1. Clone the repository: git clone https://github.com/sanketgondaliya/vehicle-detection-counting.git
 
 
 ### Security Note
