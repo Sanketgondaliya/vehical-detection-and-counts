@@ -53,7 +53,7 @@ This web application performs vehicle detection and counting on uploaded images 
 ### Running the Application
 1. Clone the repository: git clone https://github.com/sanketgondaliya/vehicle-detection-counting.git
 
-###  Application URL: https://sanketgondaliya.github.io/vehicle-detection-counting
+##  Application URL: https://sanketgondaliya.github.io/vehical-detection-and-counts/
 
 
 ### Security Note
